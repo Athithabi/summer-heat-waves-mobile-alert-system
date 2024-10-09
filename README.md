@@ -1,1 +1,0 @@
-# summer-heat-waves-mobile-alert-system
